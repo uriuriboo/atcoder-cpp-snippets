@@ -1,14 +1,14 @@
 {
   "name": "atcoder-cpp-snippets",
   "displayName": "atcoder-cpp-snippets",
-  "publisher": "rokkouribo-atcoder-cpp-snippets",
+  "publisher": "rokkouribo",
   "repository": {
     "url": "https://github.com/uriuriboo/atcoder-cpp-snippets",
     "type": "git"
   },
   "icon": "image/icon.png",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
   },
