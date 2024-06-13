@@ -1,6 +1,11 @@
 {
   "name": "atcoder-cpp-snippets",
   "displayName": "atcoder-cpp-snippets",
+  "publisher": "rokkouribo",
+  "repository": {
+    "url": "https://github.com/uriuriboo/atcoder-cpp-snippets",
+    "type": "git"
+  },
   "description": "",
   "version": "0.0.1",
   "engines": {
