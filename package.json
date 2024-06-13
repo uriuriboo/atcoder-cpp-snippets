@@ -1,7 +1,7 @@
 {
   "name": "atcoder-cpp-snippets",
   "displayName": "atcoder-cpp-snippets",
-  "publisher": "rokkouribo",
+  "publisher": "rokkouribo-atcoder-cpp-snippets",
   "repository": {
     "url": "https://github.com/uriuriboo/atcoder-cpp-snippets",
     "type": "git"
